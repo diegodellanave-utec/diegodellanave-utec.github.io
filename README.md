@@ -16,7 +16,7 @@ Los proyectos demuestran competencia en diversas áreas, incluyendo análisis ex
 
 **Técnicas:** Análisis exploratorio de datos, visualización estadística, análisis de correlaciones, tests de normalidad, análisis de componentes múltiples (ACM).
 
-[Ver notebook](./120/FINAL_Presentación_Grupo02_Entrega_III.ipynb)
+[Ver notebook](./Historical_Analysis_Of_The_Olympic_Games/Historical%20Analysis%20of%20the%20Olympic%20Games.ipynb)
 
 ---
 
@@ -26,7 +26,7 @@ Los proyectos demuestran competencia en diversas áreas, incluyendo análisis ex
 
 **Técnicas:** Redes Neuronales Convolucionales (CNN), clasificación binaria, data augmentation, transfer learning.
 
-[Ver notebook](./AI_Safety_Helmet_Detection/AI_Safety_Helmet_Detection.ipynb)
+[Ver notebook](./AI_Safety_Helmet_Detection/AI%20Safety%20Helmet%20Detection.ipynb)
 
 ---
 
@@ -36,7 +36,7 @@ Los proyectos demuestran competencia en diversas áreas, incluyendo análisis ex
 
 **Técnicas:** Árboles de decisión, Random Forest, GridSearchCV, análisis de importancia de features, ROC-AUC.
 
-[Ver notebook](./Potential_Customer_Prediction/Learner%20Notebook%20-%20Full%20Code%20Version%20-%20Potential%20Customers%20Prediction.ipynb)
+[Ver notebook](./Potential_Customer_Prediction/Potential%20Customers%20Prediction.ipynb)
 
 ---
 
